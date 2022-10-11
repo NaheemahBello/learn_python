@@ -6,4 +6,7 @@ Watch out
 ## Python Basics
 ### Topics
 * print function `print()`
-* Data Type `int`, `float`, `str`, `boolen`
+* Data Type `int`, `float`, `str`, `booleni`
+
+**Naheemah**
+## Naheemah
