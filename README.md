@@ -10,4 +10,4 @@ Watch out
 
 **Authors**
 
-``` [**Bello Naheemah**](https://github.com/NaheemahBello) ```
+[**Bello Naheemah**](https://github.com/NaheemahBello)
