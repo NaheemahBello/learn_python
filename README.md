@@ -8,5 +8,5 @@ Watch out
 * print function `print()`
 * Data Type `int`, `float`, `str`, `booleni`
 
-**Naheemah**
-#### Naheemah
+**Authors**
+``` **Bello Naheemah** | (https://github.com/NaheemahBello) ```
